@@ -1,0 +1,46 @@
+C:\Users\PortableHTPC\AppData\Local\Temporary Projects\uWotM8\obj\Debug\SurfaceWindow1.baml
+C:\Users\PortableHTPC\AppData\Local\Temporary Projects\uWotM8\obj\Debug\App.baml
+C:\Users\PortableHTPC\AppData\Local\Temporary Projects\uWotM8\obj\Debug\SurfaceWindow1.g.cs
+C:\Users\PortableHTPC\AppData\Local\Temporary Projects\uWotM8\obj\Debug\App.g.cs
+C:\Users\PortableHTPC\AppData\Local\Temporary Projects\uWotM8\obj\Debug\uWotM8_Content.g.cs
+C:\Users\PortableHTPC\AppData\Local\Temporary Projects\uWotM8\obj\Debug\uWotM8_MarkupCompile.cache
+C:\Users\PortableHTPC\AppData\Local\Temporary Projects\uWotM8\obj\Debug\uWotM8.g.resources
+C:\Users\PortableHTPC\AppData\Local\Temporary Projects\uWotM8\obj\Debug\uWotM8.Properties.Resources.resources
+C:\Users\PortableHTPC\AppData\Local\Temporary Projects\uWotM8\obj\Debug\uWotM8.csproj.GenerateResource.Cache
+C:\Users\PortableHTPC\AppData\Local\Temporary Projects\uWotM8\bin\Debug\Resources\icon.png
+C:\Users\PortableHTPC\AppData\Local\Temporary Projects\uWotM8\bin\Debug\uWotM8.xml
+C:\Users\PortableHTPC\AppData\Local\Temporary Projects\uWotM8\bin\Debug\uWotM8.exe
+C:\Users\PortableHTPC\AppData\Local\Temporary Projects\uWotM8\bin\Debug\uWotM8.pdb
+C:\Users\PortableHTPC\AppData\Local\Temporary Projects\uWotM8\obj\Debug\uWotM8.exe
+C:\Users\PortableHTPC\AppData\Local\Temporary Projects\uWotM8\obj\Debug\uWotM8.pdb
+C:\Users\PortableHTPC\documents\visual studio 2010\Projects\uWotM8\uWotM8\obj\Debug\uWotM8.exe
+C:\Users\PortableHTPC\documents\visual studio 2010\Projects\uWotM8\uWotM8\obj\Debug\uWotM8.pdb
+C:\Users\PortableHTPC\documents\visual studio 2010\Projects\uWotM8\uWotM8\bin\Debug\Resources\icon.png
+C:\Users\PortableHTPC\documents\visual studio 2010\Projects\uWotM8\uWotM8\bin\Debug\uWotM8.xml
+C:\Users\PortableHTPC\documents\visual studio 2010\Projects\uWotM8\uWotM8\bin\Debug\uWotM8.exe
+C:\Users\PortableHTPC\documents\visual studio 2010\Projects\uWotM8\uWotM8\bin\Debug\uWotM8.pdb
+C:\Users\PortableHTPC\documents\visual studio 2010\Projects\uWotM8\uWotM8\obj\Debug\SurfaceWindow1.baml
+C:\Users\PortableHTPC\documents\visual studio 2010\Projects\uWotM8\uWotM8\obj\Debug\App.baml
+C:\Users\PortableHTPC\documents\visual studio 2010\Projects\uWotM8\uWotM8\obj\Debug\SurfaceWindow1.g.cs
+C:\Users\PortableHTPC\documents\visual studio 2010\Projects\uWotM8\uWotM8\obj\Debug\App.g.cs
+C:\Users\PortableHTPC\documents\visual studio 2010\Projects\uWotM8\uWotM8\obj\Debug\uWotM8_Content.g.cs
+C:\Users\PortableHTPC\documents\visual studio 2010\Projects\uWotM8\uWotM8\obj\Debug\uWotM8_MarkupCompile.cache
+C:\Users\PortableHTPC\documents\visual studio 2010\Projects\uWotM8\uWotM8\obj\Debug\uWotM8.g.resources
+C:\Users\PortableHTPC\documents\visual studio 2010\Projects\uWotM8\uWotM8\obj\Debug\uWotM8.Properties.Resources.resources
+C:\Users\PortableHTPC\documents\visual studio 2010\Projects\uWotM8\uWotM8\obj\Debug\uWotM8.csproj.GenerateResource.Cache
+C:\Users\PortableHTPC\development\uWotM8\uWotM8\obj\Debug\uWotM8.exe
+C:\Users\PortableHTPC\development\uWotM8\uWotM8\obj\Debug\uWotM8.pdb
+C:\Users\PortableHTPC\development\uWotM8\uWotM8\bin\Debug\Resources\icon.png
+C:\Users\PortableHTPC\development\uWotM8\uWotM8\bin\Debug\uWotM8.xml
+C:\Users\PortableHTPC\development\uWotM8\uWotM8\bin\Debug\uWotM8.exe
+C:\Users\PortableHTPC\development\uWotM8\uWotM8\bin\Debug\uWotM8.pdb
+C:\Users\PortableHTPC\development\uWotM8\uWotM8\obj\Debug\UWotM8.csprojResolveAssemblyReference.cache
+C:\Users\PortableHTPC\development\uWotM8\uWotM8\obj\Debug\SurfaceWindow1.baml
+C:\Users\PortableHTPC\development\uWotM8\uWotM8\obj\Debug\App.baml
+C:\Users\PortableHTPC\development\uWotM8\uWotM8\obj\Debug\SurfaceWindow1.g.cs
+C:\Users\PortableHTPC\development\uWotM8\uWotM8\obj\Debug\App.g.cs
+C:\Users\PortableHTPC\development\uWotM8\uWotM8\obj\Debug\uWotM8_Content.g.cs
+C:\Users\PortableHTPC\development\uWotM8\uWotM8\obj\Debug\uWotM8_MarkupCompile.cache
+C:\Users\PortableHTPC\development\uWotM8\uWotM8\obj\Debug\uWotM8.g.resources
+C:\Users\PortableHTPC\development\uWotM8\uWotM8\obj\Debug\uWotM8.Properties.Resources.resources
+C:\Users\PortableHTPC\development\uWotM8\uWotM8\obj\Debug\UWotM8.csproj.GenerateResource.Cache
