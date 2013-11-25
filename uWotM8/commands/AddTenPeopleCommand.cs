@@ -22,7 +22,6 @@ namespace uWotM8.commands
                 person.name = String.Format("Johny {0}", i);
                 PersonAccessor.addPerson(person);
             }
-            System.Threading.Thread.Sleep(5000);
         }
     }
 }

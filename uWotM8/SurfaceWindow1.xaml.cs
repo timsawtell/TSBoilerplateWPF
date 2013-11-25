@@ -42,17 +42,18 @@ namespace uWotM8
             {
                 if (!_weakSelf.IsAlive)
                     return;
-                SurfaceWindow1 weakSelf = (SurfaceWindow1)_weakSelf.Target;
                 if (null != e)
                 {
                     Console.WriteLine(e.ToString());
                     return;
                 }
 
+                SurfaceWindow1 weakSelf = (SurfaceWindow1)_weakSelf.Target;
                 weakSelf.dataGrid1.ItemsSource = Model.Instance.people;
+                Model.Instance.save();
                 Console.WriteLine("All done");
             };
-
+            
             CommandCenter.AddTenPeople(complete);
         }
 
