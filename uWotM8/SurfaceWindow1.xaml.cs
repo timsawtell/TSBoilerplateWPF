@@ -50,7 +50,6 @@ namespace uWotM8
 
                 SurfaceWindow1 weakSelf = (SurfaceWindow1)_weakSelf.Target;
                 weakSelf.dataGrid1.ItemsSource = Model.Instance.people;
-                Model.Instance.save();
                 Console.WriteLine("All done");
             };
             
